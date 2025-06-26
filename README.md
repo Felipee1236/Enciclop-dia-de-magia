@@ -1,4 +1,9 @@
-# Enciclopédia de Magias - Sistema CRUD
+# Enciclopédia de Magias 
+
+Projeto de Banco de Dados- C07-L1
+Felipe Campos de Souza
+Sofia Nogueira Groke
+
 
 ## Estrutura do Banco de Dados
 
